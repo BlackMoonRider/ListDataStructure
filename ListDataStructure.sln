@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDataStructure", "ListDataStructure\ListDataStructure.csproj", "{D9F3D57D-552C-44BC-B5A1-5C5AD96621FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDataStructureTests", "ListDataStructureTests\ListDataStructureTests.csproj", "{500907B9-3253-4574-A7A3-A79DC891FDE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F3D57D-552C-44BC-B5A1-5C5AD96621FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F3D57D-552C-44BC-B5A1-5C5AD96621FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F3D57D-552C-44BC-B5A1-5C5AD96621FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F3D57D-552C-44BC-B5A1-5C5AD96621FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500907B9-3253-4574-A7A3-A79DC891FDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500907B9-3253-4574-A7A3-A79DC891FDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500907B9-3253-4574-A7A3-A79DC891FDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500907B9-3253-4574-A7A3-A79DC891FDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F96E6EED-5833-4C40-9D08-2D759042F8D5}
+	EndGlobalSection
+EndGlobal
